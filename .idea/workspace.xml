@@ -4,9 +4,6 @@
     <list default="true" id="0fbae1de-29c0-4a60-b9a1-73958d7a490e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Challenges/codingprochallenge/.idea/codingprochallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Neutralino/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Node/.idea/Node.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Socket/.idea/Socket.iml" afterDir="false" />
@@ -30,6 +27,8 @@
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -83,6 +82,31 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1627548358" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1627548357" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1vyk3kYfCvcpZvXkYy82phRc8o6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -139,6 +163,8 @@
       <workItem from="1627541521935" duration="574000" />
       <workItem from="1627542489144" duration="733000" />
       <workItem from="1627544162782" duration="2144000" />
+      <workItem from="1627548323489" duration="83000" />
+      <workItem from="1627548475752" duration="6000" />
     </task>
     <servers />
   </component>
