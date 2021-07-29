@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fbae1de-29c0-4a60-b9a1-73958d7a490e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenges/codingprochallenge/.idea/codingprochallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neutralino/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/.idea/Node.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Socket/.idea/Socket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../React/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/10.imageset/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/10.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/avengers.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/avengers.imageset/avengers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/birds.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/birds.imageset/birds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/black-panther.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/black-panther.imageset/black-panther.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/placeholder.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Assets.xcassets/placeholder.imageset/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/HTTP Clients/HTTPMovieClient.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Models/Movie.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Models/Review.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/MoviesApp/MoviesApp/Views/MovieDetailsView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/ios.widget.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/iOSClock.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/01d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/01n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/02d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/02n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/03d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/03n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/04d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/04n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/09d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/09n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/10d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/10n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/11d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/11n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/13d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/13n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/50d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/icons/weather/50n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/Galileo Connect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/Galileo Connect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/GalileoConnect/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/GalileoConnect/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/electron-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React/electron-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr.xcodeproj/project.xcworkspace/xcuserdata/lalit.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/TipsView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/TipsView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/WorldView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/WorldView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/locations.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Trekr-main/Trekr/locations.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vyk3kYfCvcpZvXkYy82phRc8o6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fbae1de-29c0-4a60-b9a1-73958d7a490e" name="Changes" comment="" />
+      <created>1627541520234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627541520234</updated>
+      <workItem from="1627541521935" duration="574000" />
+      <workItem from="1627542489144" duration="733000" />
+      <workItem from="1627544162782" duration="2144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
