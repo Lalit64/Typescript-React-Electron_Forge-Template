@@ -4,7 +4,6 @@
     <list default="true" id="0fbae1de-29c0-4a60-b9a1-73958d7a490e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Challenges/codingprochallenge/.idea/codingprochallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dark_mode_black_24dp.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Neutralino/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Node/.idea/Node.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Socket/.idea/Socket.iml" afterDir="false" />
@@ -28,17 +27,8 @@
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/custom.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -217,7 +207,7 @@
       <workItem from="1627969779510" duration="1055000" />
       <workItem from="1627970958898" duration="15000" />
       <workItem from="1627971944393" duration="1576000" />
-      <workItem from="1627973997552" duration="1527000" />
+      <workItem from="1627973997552" duration="1789000" />
     </task>
     <servers />
   </component>
