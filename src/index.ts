@@ -14,12 +14,24 @@ const createWindow = (): void => {
   const mainWindow = new BrowserWindow({
     height: 600,
     width: 800,
+    frame: false,
+    minHeight: 950,
+    minWidth: 540,
+    titleBarStyle: process.platform === "darwin" ? "hiddenInset" : "hidden",
+    webPreferences: {
+      nodeIntegration: true,
+      enableRemoteModule:true,
+      contextIsolation: false
+    }
   });
 
-  // and load the index.html of the app.
+  mainWindow.maximize()
+
   mainWindow.loadURL(MAIN_WINDOW_WEBPACK_ENTRY);
 
+
 };
+
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
@@ -42,6 +54,7 @@ app.on('activate', () => {
     createWindow();
   }
 });
+
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.

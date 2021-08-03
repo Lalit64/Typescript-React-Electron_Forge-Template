@@ -4,6 +4,7 @@
     <list default="true" id="0fbae1de-29c0-4a60-b9a1-73958d7a490e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../../HTML/WickEditor/.idea/WickEditor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Challenges/codingprochallenge/.idea/codingprochallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dark_mode_black_24dp.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Neutralino/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Node/.idea/Node.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Socket/.idea/Socket.iml" afterDir="false" />
@@ -27,8 +28,17 @@
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/custom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -83,6 +93,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -120,9 +138,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/public" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
@@ -131,11 +152,20 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/public" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/public" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Electron Custom Titlebar/src/index.html?_ij_reload" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -148,6 +178,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -164,11 +195,37 @@
       <workItem from="1627542489144" duration="733000" />
       <workItem from="1627544162782" duration="2144000" />
       <workItem from="1627548323489" duration="83000" />
-      <workItem from="1627548475752" duration="6000" />
+      <workItem from="1627548475752" duration="3611000" />
+      <workItem from="1627553955703" duration="59000" />
+      <workItem from="1627563929328" duration="1115000" />
+      <workItem from="1627567549175" duration="530000" />
+      <workItem from="1627626503738" duration="1722000" />
+      <workItem from="1627645302124" duration="376000" />
+      <workItem from="1627646615715" duration="3349000" />
+      <workItem from="1627887994690" duration="37000" />
+      <workItem from="1627889058150" duration="1604000" />
+      <workItem from="1627894199532" duration="321000" />
+      <workItem from="1627895532745" duration="3423000" />
+      <workItem from="1627901893701" duration="248000" />
+      <workItem from="1627903313210" duration="347000" />
+      <workItem from="1627903831048" duration="359000" />
+      <workItem from="1627910559428" duration="767000" />
+      <workItem from="1627911379871" duration="841000" />
+      <workItem from="1627916553266" duration="44000" />
+      <workItem from="1627916974531" duration="3623000" />
+      <workItem from="1627923675762" duration="3547000" />
+      <workItem from="1627969779510" duration="1055000" />
+      <workItem from="1627970958898" duration="15000" />
+      <workItem from="1627971944393" duration="1576000" />
+      <workItem from="1627973997552" duration="1527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
