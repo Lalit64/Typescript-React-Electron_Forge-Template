@@ -30,3 +30,5 @@ or
 `yarn publish`
 or
 `npm run publish`
+
+### Feel free to customize this template as much as you want.

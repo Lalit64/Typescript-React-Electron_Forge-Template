@@ -1,6 +1,6 @@
 {
-  "name": "learning",
-  "productName": "learning",
+  "name": "electron-typescript-react-template",
+  "productName": "Electron TypeScript-React Template",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -19,12 +19,14 @@
   "license": "MIT",
   "config": {
     "forge": {
-      "packagerConfig": {},
+      "packagerConfig": {
+        "icon": "./src/icons/icon.icns"
+      },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "learning"
+            "name": "Electron TypeScript-React Template"
           }
         },
         {

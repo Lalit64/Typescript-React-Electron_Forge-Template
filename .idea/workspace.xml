@@ -27,7 +27,9 @@
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HTML/Dojo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HTML/Dojo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../widgets/clock.widget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -206,7 +208,9 @@
       <workItem from="1627969779510" duration="1055000" />
       <workItem from="1627970958898" duration="15000" />
       <workItem from="1627971944393" duration="1576000" />
-      <workItem from="1627973997552" duration="1846000" />
+      <workItem from="1627973997552" duration="1869000" />
+      <workItem from="1627976168055" duration="1192000" />
+      <workItem from="1627978946168" duration="266000" />
     </task>
     <servers />
   </component>

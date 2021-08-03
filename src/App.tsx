@@ -4,7 +4,7 @@ import lightMode from "./light_mode_black_24dp.svg";
 import darkMode from "./dark_mode_black_24dp.svg";
 import AppStyle from "./App-style";
 import AppStyleDark from "./App-style-dark";
-// @ts-ignore
+//@ts-ignore
 import { TitleBar } from "react-desktop/windows";
 
 const electron = window.require("electron");
