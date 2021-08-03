@@ -2,7 +2,7 @@
 
 TypeScript React Electron Forge template with seamless custom titlebar and dark mode light mode switcher
 
-### Based on Create-React-App template
+### Based on Create-React-App and Electron Forge templates
 
 ## Usage
 
